@@ -30,7 +30,6 @@ github_username:  imhuis
 
 # Build settings
 # theme: minima
-theme: no-style-please
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
