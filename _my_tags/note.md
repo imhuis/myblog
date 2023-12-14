@@ -1,0 +1,4 @@
+---
+slug: notes
+name: Note
+---
