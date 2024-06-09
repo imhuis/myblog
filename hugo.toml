@@ -1,0 +1,5 @@
+baseURL = 'https://blog.zyixh.top/'
+languageCode = 'zh-cn'
+title = '道阻且长'
+
+theme='nostyle'
