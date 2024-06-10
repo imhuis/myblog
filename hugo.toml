@@ -2,6 +2,16 @@ baseURL = 'https://blog.zyixh.top/'
 languageCode = 'zh-cn'
 title = '道阻且长'
 
+[server]
+  [[server.headers]]
+    for = '/**'
+    [server.headers.values]
+      Content-Security-Policy = 'script-src localhost:1313'
+      Referrer-Policy = 'strict-origin-when-cross-origin'
+      X-Content-Type-Options = 'nosniff'
+      X-Frame-Options = 'DENY'
+      X-XSS-Protection = '1; mode=block'
+
 [module]
-[[module.imports]]
-path = 'github.com/imhuis/hugo-theme-nostyleplease'
+  [[module.imports]]
+    path = 'github.com/imhuis/hugo-theme-nostyleplease'
