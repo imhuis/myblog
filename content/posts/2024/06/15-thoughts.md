@@ -27,6 +27,6 @@ _緊抱住的綠洲_
 _是殘破的海市蜃樓_
 **
 
-![变得有些奢侈的事](http://r.zyixh.top/2024/IMG_1709.jpeg)
-![在现场](http://r.zyixh.top/2024/IMG_1715.jpeg)
-![安可](http://r.zyixh.top/2024/IMG_1724.jpeg)
+![变得有些奢侈的事](http://r.zyixh.top/2024/06/IMG_1709.jpeg)
+![在现场](http://r.zyixh.top/2024/06/IMG_1715.jpeg)
+![安可](http://r.zyixh.top/2024/06/IMG_1724.jpeg)
